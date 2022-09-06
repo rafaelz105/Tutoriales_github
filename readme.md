@@ -7,4 +7,4 @@ git log
 --- 06/09/2022 ---
 git checkout
 git checkout -- .
-
+git branch
